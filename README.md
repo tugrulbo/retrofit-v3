@@ -1,7 +1,7 @@
 # retrofit-v3<br>
 simple retrofit example with listview items<br>
 
-1-  " <uses-permission android:name='android.permission.INTERNET'/>"<br>
+1-  Internet Permissions <br>
 
 2-<br>
      //<br>
